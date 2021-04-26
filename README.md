@@ -1,3 +1,3 @@
-Use below link to see the above ipynb file as github performs a static render of the notebooks and it doesn't include the embedded HTML/JavaScript that makes up a plotly graph
+Use the below link to see the above ipynb file with plots as github performs a static render of the notebooks and it doesn't include the embedded HTML/JavaScript that makes up a plotly graph
 
-https://nbviewer.jupyter.org/
+https://nbviewer.jupyter.org/github/vivek20dadhich/Movie-Recommendation-Using-TMDB-dataset/blob/main/movie-recommender-system.ipynb
